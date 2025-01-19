@@ -92,7 +92,7 @@ input[type = "checkbox"]{
 <script>
 'use strict'
 function fetchJSONData() {
-    fetch("https://raw.githubusercontent.com/bubblobill/soundShare/main/treeList.json")
+    fetch("https://raw.githubusercontent.com/Jmr3366/soundShare/main/treeList.json")
     .then((res) => {
         if (!res.ok) {
             throw new Error
@@ -155,7 +155,7 @@ function buildFileStructure(json) {
 }
 function makeNodeExtras(node) {
     let options = node.getOptions();
-    const path = "https://bubblobill.github.io/soundShare/audio/" + encodeURIComponent(options.path);
+    const path = "https://Jmr3366.github.io/soundShare/audio/" + encodeURIComponent(options.path);
     const inputSelect = document.createElement("input");
     inputSelect.type = "checkbox";
     inputSelect.className = "tj_checkbox";

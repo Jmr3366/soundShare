@@ -1,6 +1,6 @@
 const octokit = new Octokit({ });
 
-const result = async function(){ await  octokit.request('GET /repos/bubblobill/soundShare/contents/audio', {
+const result = async function(){ await  octokit.request('GET /repos/Jmr3366/soundShare/contents/audio', {
   owner: 'OWNER',
   repo: 'REPO',
   path: 'PATH',

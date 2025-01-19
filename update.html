@@ -15,7 +15,7 @@
   import { request } from "https://cdn.pika.dev/@octokit/request";
 
   async function getTheSHAThenTheRepoContents() {
-    const result = await request('GET /repos/bubblobill/soundShare/git/trees/main?recursive=1', {
+    const result = await request('GET /repos/Jmr3366/soundShare/git/trees/main?recursive=1', {
       owner: 'OWNER',
       repo: 'REPO',
       tree_sha: 'TREE_SHA',
@@ -26,7 +26,7 @@
     getRepoContents( jsonPath(result, "$..[?(@.path==`audio`)].sha")[0]);
   }
   async function getRepoContents(SHA) {
-    const result = await request('GET /repos/bubblobill/soundShare/git/trees/'+SHA+'?recursive=1', {
+    const result = await request('GET /repos/Jmr3366/soundShare/git/trees/'+SHA+'?recursive=1', {
       owner: 'OWNER',
       repo: 'REPO',
       tree_sha: 'TREE_SHA',
