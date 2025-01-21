@@ -2,8 +2,8 @@
         "path": "UI",
         "mode": "040000",
         "type": "tree",
-        "sha": "14db1b047d977270def1656a4de2313cf8faa227",
-        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/trees/14db1b047d977270def1656a4de2313cf8faa227"
+        "sha": "f8461b63bbd643c22f6829a9c64b235d76ce7cd2",
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/trees/f8461b63bbd643c22f6829a9c64b235d76ce7cd2"
     }, {
         "path": "UI/diceRoll_1_Dice_hard.mp3",
         "mode": "100644",
@@ -47,13 +47,6 @@
         "size": 14290,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4ae63b6ae6d658a50d7f92c4210b45f666f718f9"
     }, {
-        "path": "UI/diceRoll_hard_bite.mp3",
-        "mode": "100644",
-        "type": "blob",
-        "sha": "655e663e48f8c38272afe5a2b094a95503a46ca9",
-        "size": 3808,
-        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/655e663e48f8c38272afe5a2b094a95503a46ca9"
-    }, {
         "path": "UI/diceRoll_soft.mp3",
         "mode": "100644",
         "type": "blob",
@@ -61,19 +54,19 @@
         "size": 9234,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/7bb8808e32a0cc12d21a8e80efe6933e77e2bb00"
     }, {
-        "path": "UI/diceRoll_soft_bite.mp3",
-        "mode": "100644",
-        "type": "blob",
-        "sha": "1c98c639454e77f6a775faef96150c706f2db83b",
-        "size": 3913,
-        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1c98c639454e77f6a775faef96150c706f2db83b"
-    }, {
-        "path": "UI/rollDice_hard_A.mp3",
+        "path": "UI/rollDice_hard.mp3",
         "mode": "100644",
         "type": "blob",
         "sha": "00962e0b584c0361b11dc8f30b9cd9b259aa34fa",
         "size": 185991,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/00962e0b584c0361b11dc8f30b9cd9b259aa34fa"
+    }, {
+        "path": "UI/rollDice_hard_bite.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "655e663e48f8c38272afe5a2b094a95503a46ca9",
+        "size": 3808,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/655e663e48f8c38272afe5a2b094a95503a46ca9"
     }, {
         "path": "UI/rollDice_hard_throw_bite.mp3",
         "mode": "100644",
@@ -82,12 +75,19 @@
         "size": 16480,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/82c319b7bcb3e276925ab808731169e6220120e6"
     }, {
-        "path": "UI/rollDice_soft_A.mp3",
+        "path": "UI/rollDice_soft.mp3",
         "mode": "100644",
         "type": "blob",
         "sha": "628ffed110134b09def616e0792d1ff86aee31de",
         "size": 201456,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/628ffed110134b09def616e0792d1ff86aee31de"
+    }, {
+        "path": "UI/rollDice_soft_bite.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1c98c639454e77f6a775faef96150c706f2db83b",
+        "size": 3913,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1c98c639454e77f6a775faef96150c706f2db83b"
     }, {
         "path": "UI/rollDice_soft_throw_bite.mp3",
         "mode": "100644",
