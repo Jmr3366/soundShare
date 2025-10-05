@@ -1249,14 +1249,6 @@
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1c8be52ced998536f909c32637061f1e6b691755"
     },
     {
-        "path": "foley/sfx/JDSherbert_FirearmFX/LICENSE.pdf",
-        "mode": "100644",
-        "type": "blob",
-        "sha": "64fbd7282cc9c210457ce5a1506fce6618202aee",
-        "size": 148281,
-        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/64fbd7282cc9c210457ce5a1506fce6618202aee"
-    },
-    {
         "path": "foley/sfx/Stone_rolling.mp3",
         "mode": "100644",
         "type": "blob",
