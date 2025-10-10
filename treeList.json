@@ -114,8 +114,8 @@
         "path": "foley",
         "mode": "040000",
         "type": "tree",
-        "sha": "22f8f0cddb4992c512316c4c48d2261735a301f3",
-        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/trees/22f8f0cddb4992c512316c4c48d2261735a301f3"
+        "sha": "6195a0e076ea1078f4d6bd064c128641a31d0a0c",
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/trees/6195a0e076ea1078f4d6bd064c128641a31d0a0c"
     },
     {
         "path": "foley/JDSherbert",
@@ -521,6 +521,14 @@
         "sha": "0c146c9287a8678d48328fc7d19f343a11a9c49c",
         "size": 75766,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/0c146c9287a8678d48328fc7d19f343a11a9c49c"
+    },
+    {
+        "path": "foley/JDSherbert/ReadMe.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9bc80625d26f4f8d468ed52d571b65bb718bfc65",
+        "size": 385,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9bc80625d26f4f8d468ed52d571b65bb718bfc65"
     },
     {
         "path": "foley/JDSherbert/TabletopGames",
@@ -1845,6 +1853,1877 @@
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/42be7e4ded5028f2a27d4d27d8eea0720c5ca08c"
     },
     {
+        "path": "foley/weapon_magic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "0610b03dd15285478cc71ef18adebaeb21769757",
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/trees/0610b03dd15285478cc71ef18adebaeb21769757"
+    },
+    {
+        "path": "foley/weapon_magic/acid_spray_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "acff1dbf797e368c70921873a6463809fb658d00",
+        "size": 250476,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/acff1dbf797e368c70921873a6463809fb658d00"
+    },
+    {
+        "path": "foley/weapon_magic/acid_spray_cast_1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "32a268ebd133652c223be590ffa7c06e2190b661",
+        "size": 250476,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/32a268ebd133652c223be590ffa7c06e2190b661"
+    },
+    {
+        "path": "foley/weapon_magic/alacrity.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5557678fcdc246031e7819402211f25103c3df9d",
+        "size": 72393,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5557678fcdc246031e7819402211f25103c3df9d"
+    },
+    {
+        "path": "foley/weapon_magic/arrow_impact.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3b0153950854b0ff41b6ff4e53b0318c15f6601d",
+        "size": 7599,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3b0153950854b0ff41b6ff4e53b0318c15f6601d"
+    },
+    {
+        "path": "foley/weapon_magic/astral_imprisonment_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "759274c3bab21d5de72667a751234641a9abcb33",
+        "size": 158091,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/759274c3bab21d5de72667a751234641a9abcb33"
+    },
+    {
+        "path": "foley/weapon_magic/augury.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d98c0f839c4ab20b10296b72bf74408051636009",
+        "size": 182985,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d98c0f839c4ab20b10296b72bf74408051636009"
+    },
+    {
+        "path": "foley/weapon_magic/axe_impact.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ec6a75b763abbda9b6836f8f066f6bebe6754107",
+        "size": 9334,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ec6a75b763abbda9b6836f8f066f6bebe6754107"
+    },
+    {
+        "path": "foley/weapon_magic/bane.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b6bb61908daf3aac082bb006caf99d72af627334",
+        "size": 965188,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b6bb61908daf3aac082bb006caf99d72af627334"
+    },
+    {
+        "path": "foley/weapon_magic/big_heal.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "90ccf518cc39d092b36226e21eaeaa8a83ee6576",
+        "size": 394508,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/90ccf518cc39d092b36226e21eaeaa8a83ee6576"
+    },
+    {
+        "path": "foley/weapon_magic/bless.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "8c7c65b525fdb935bd0bd042f3a4547b4b830637",
+        "size": 577354,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/8c7c65b525fdb935bd0bd042f3a4547b4b830637"
+    },
+    {
+        "path": "foley/weapon_magic/blinding_light.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "68573f18180916bb743affbc5e0b5e7786f8c582",
+        "size": 55349,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/68573f18180916bb743affbc5e0b5e7786f8c582"
+    },
+    {
+        "path": "foley/weapon_magic/blindnessdeafness.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c8014941ae15c29d91adc3b00aeb7b898dfcbde7",
+        "size": 235308,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c8014941ae15c29d91adc3b00aeb7b898dfcbde7"
+    },
+    {
+        "path": "foley/weapon_magic/blink_long.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b687ca08f92597931109eaa5080f01060a595ca3",
+        "size": 37033,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b687ca08f92597931109eaa5080f01060a595ca3"
+    },
+    {
+        "path": "foley/weapon_magic/blur.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e1e135e65b4a6e74a4ee7bbba20bd0a32c134304",
+        "size": 374796,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e1e135e65b4a6e74a4ee7bbba20bd0a32c134304"
+    },
+    {
+        "path": "foley/weapon_magic/bramble-maze-spawn.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "39b32522092eb8739cdc5d700900d3ad87951cf4",
+        "size": 29719,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/39b32522092eb8739cdc5d700900d3ad87951cf4"
+    },
+    {
+        "path": "foley/weapon_magic/breathe_fire.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d09fb8f3cd08bbc3b121ecd3d9dd686e471d8488",
+        "size": 45468,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d09fb8f3cd08bbc3b121ecd3d9dd686e471d8488"
+    },
+    {
+        "path": "foley/weapon_magic/bruh_oh_no_no_no_no_funny_laugh__meme_sound__sound_effect_hd.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b249fcd1dbfbd49afcc3fe9cbc2f66cba64ee7e5",
+        "size": 41407,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b249fcd1dbfbd49afcc3fe9cbc2f66cba64ee7e5"
+    },
+    {
+        "path": "foley/weapon_magic/bullwhip_whip_2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "35daa94d76b6313c515e72b5c1e0852480847444",
+        "size": 122710,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/35daa94d76b6313c515e72b5c1e0852480847444"
+    },
+    {
+        "path": "foley/weapon_magic/burning_spear_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "cb6db07e7ad4199852d7f16f5423c3874fd1220e",
+        "size": 247156,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/cb6db07e7ad4199852d7f16f5423c3874fd1220e"
+    },
+    {
+        "path": "foley/weapon_magic/burrow.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "579648817715bd4943849e06d71b9073813a2b34",
+        "size": 60439,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/579648817715bd4943849e06d71b9073813a2b34"
+    },
+    {
+        "path": "foley/weapon_magic/call_down_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bd5d835decfacbada54869b2e0108bbe1c90b6d7",
+        "size": 48736,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/bd5d835decfacbada54869b2e0108bbe1c90b6d7"
+    },
+    {
+        "path": "foley/weapon_magic/calmness.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c64d8968602d37bc63aa1bba4b02c6ca93c3493a",
+        "size": 589488,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c64d8968602d37bc63aa1bba4b02c6ca93c3493a"
+    },
+    {
+        "path": "foley/weapon_magic/cancel-dark-riftmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "603cf70e89d841d5535ec754a11f07d4fd68e4e8",
+        "size": 102862,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/603cf70e89d841d5535ec754a11f07d4fd68e4e8"
+    },
+    {
+        "path": "foley/weapon_magic/cartoon_bite_sound_effect.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b40d0716ee0331f36b591624d1352eddd424798f",
+        "size": 123174,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b40d0716ee0331f36b591624d1352eddd424798f"
+    },
+    {
+        "path": "foley/weapon_magic/catapult_sound_effect.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b86adf9a7b19982252e5c845539d303c5c0c6f3a",
+        "size": 165282,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b86adf9a7b19982252e5c845539d303c5c0c6f3a"
+    },
+    {
+        "path": "foley/weapon_magic/chain_person.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9464d47400617cdd3dfa7394d13f9a73ebd3ef85",
+        "size": 490376,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9464d47400617cdd3dfa7394d13f9a73ebd3ef85"
+    },
+    {
+        "path": "foley/weapon_magic/channal_divinity_turn_undead.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "12d393aee71fa7cf709e9527d28e0fd6b7ba5398",
+        "size": 635848,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/12d393aee71fa7cf709e9527d28e0fd6b7ba5398"
+    },
+    {
+        "path": "foley/weapon_magic/chaos-meteormp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "734629ed594d9150456bdaff321f0076c9df302e",
+        "size": 204845,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/734629ed594d9150456bdaff321f0076c9df302e"
+    },
+    {
+        "path": "foley/weapon_magic/chaos_bolt.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e636108737c49d60f9602c53f4de6f3b67cd6709",
+        "size": 61318,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e636108737c49d60f9602c53f4de6f3b67cd6709"
+    },
+    {
+        "path": "foley/weapon_magic/chaotic-offeringmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "23207d96c4d6eb0d0ee608915e41b1b55f58d7f4",
+        "size": 178094,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/23207d96c4d6eb0d0ee608915e41b1b55f58d7f4"
+    },
+    {
+        "path": "foley/weapon_magic/chronospheremp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "dc7b4926f8c546f64eb2f1c71c4ad21116c5eebd",
+        "size": 94502,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/dc7b4926f8c546f64eb2f1c71c4ad21116c5eebd"
+    },
+    {
+        "path": "foley/weapon_magic/clash_01.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5daf196d3a2f6d50b6f10838704e07b62f634d21",
+        "size": 15512,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5daf196d3a2f6d50b6f10838704e07b62f634d21"
+    },
+    {
+        "path": "foley/weapon_magic/clash_clash.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "41ae0832014efecf421f4f230cc910c969e4ebb5",
+        "size": 23437,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/41ae0832014efecf421f4f230cc910c969e4ebb5"
+    },
+    {
+        "path": "foley/weapon_magic/cold_embrace_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4386f8c029f1366ea4029953cc8a042540d2e747",
+        "size": 177932,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4386f8c029f1366ea4029953cc8a042540d2e747"
+    },
+    {
+        "path": "foley/weapon_magic/command.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9ccd546312f2bb965b25b59c42d97936825aa13c",
+        "size": 525680,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9ccd546312f2bb965b25b59c42d97936825aa13c"
+    },
+    {
+        "path": "foley/weapon_magic/concussive_shot_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "005a83efc85580f804ceaca15c7b4b24bcf55d8a",
+        "size": 88260,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/005a83efc85580f804ceaca15c7b4b24bcf55d8a"
+    },
+    {
+        "path": "foley/weapon_magic/corruptionmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a5ca43b9d1f8fb7c33439a3b8ca82b549aa75814",
+        "size": 32227,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a5ca43b9d1f8fb7c33439a3b8ca82b549aa75814"
+    },
+    {
+        "path": "foley/weapon_magic/crippling_fear_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6d455f9bde7da039ec8ba8a0b19211142d9db3ea",
+        "size": 51926,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/6d455f9bde7da039ec8ba8a0b19211142d9db3ea"
+    },
+    {
+        "path": "foley/weapon_magic/crossbow_shoot.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c2e109e44c9b27f72395869a8353ba45b1ed4b12",
+        "size": 22898,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c2e109e44c9b27f72395869a8353ba45b1ed4b12"
+    },
+    {
+        "path": "foley/weapon_magic/curse.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "960b45b409f34a73640b040d19de057758e4972d",
+        "size": 41213,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/960b45b409f34a73640b040d19de057758e4972d"
+    },
+    {
+        "path": "foley/weapon_magic/dagger.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "48fb8634e2e28f06518a8aea9445e486c06fb830",
+        "size": 30216,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/48fb8634e2e28f06518a8aea9445e486c06fb830"
+    },
+    {
+        "path": "foley/weapon_magic/darkness.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a452e9cf38765f1b693900b9198ddb0805f6df01",
+        "size": 1064112,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a452e9cf38765f1b693900b9198ddb0805f6df01"
+    },
+    {
+        "path": "foley/weapon_magic/dawnbreaker_solar_guardian_2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "833c0964df59d78cac7ed10fb55b6886ff3d0bd5",
+        "size": 171916,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/833c0964df59d78cac7ed10fb55b6886ff3d0bd5"
+    },
+    {
+        "path": "foley/weapon_magic/deafening_blast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "163cb478f8f51f6fe741805700cf25c5a75798eb",
+        "size": 89959,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/163cb478f8f51f6fe741805700cf25c5a75798eb"
+    },
+    {
+        "path": "foley/weapon_magic/decay_transfer2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b3cea06f3d45b841d4b22d42f0b26d97f19152dc",
+        "size": 59003,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b3cea06f3d45b841d4b22d42f0b26d97f19152dc"
+    },
+    {
+        "path": "foley/weapon_magic/detect_evil_and_good.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "64c5226974144e5dcca8e67d34ca8b28ab2a13e0",
+        "size": 1058416,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/64c5226974144e5dcca8e67d34ca8b28ab2a13e0"
+    },
+    {
+        "path": "foley/weapon_magic/devour.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e8a5eb20744da190fc527dfa5e12190bcaadee3b",
+        "size": 32017,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e8a5eb20744da190fc527dfa5e12190bcaadee3b"
+    },
+    {
+        "path": "foley/weapon_magic/dire_siege_projectile_launch1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "904c170675a80954fc80056a3033014f6d041bff",
+        "size": 32975,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/904c170675a80954fc80056a3033014f6d041bff"
+    },
+    {
+        "path": "foley/weapon_magic/dissappear.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6e25d1d3289278382c9f97a5afa9d416ed23d508",
+        "size": 59398,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/6e25d1d3289278382c9f97a5afa9d416ed23d508"
+    },
+    {
+        "path": "foley/weapon_magic/doom_preattack3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bd5030bf5fa161227a83783cee84f407ea70453a",
+        "size": 8312,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/bd5030bf5fa161227a83783cee84f407ea70453a"
+    },
+    {
+        "path": "foley/weapon_magic/door-knock-47175.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e0a7daaabceffae63c6509a0bed43f816abb2760",
+        "size": 23040,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e0a7daaabceffae63c6509a0bed43f816abb2760"
+    },
+    {
+        "path": "foley/weapon_magic/dragon_knight_preattack1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3a2aba3e07ac49ffaf86a446c7cfe037caacf653",
+        "size": 10552,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3a2aba3e07ac49ffaf86a446c7cfe037caacf653"
+    },
+    {
+        "path": "foley/weapon_magic/drunken_haze_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "79c1cfb103cf7e107a8a85a964424c4e2dee92af",
+        "size": 29171,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/79c1cfb103cf7e107a8a85a964424c4e2dee92af"
+    },
+    {
+        "path": "foley/weapon_magic/dual-breath-castmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "263205f995e6ad7ac7e41035c22124eaad2c843e",
+        "size": 40273,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/263205f995e6ad7ac7e41035c22124eaad2c843e"
+    },
+    {
+        "path": "foley/weapon_magic/duel-castmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9b2db3e97c9bd0527071b1922c6772cdc592c757",
+        "size": 135462,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9b2db3e97c9bd0527071b1922c6772cdc592c757"
+    },
+    {
+        "path": "foley/weapon_magic/dust_of_appearance.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "46af29c3822726253035a8cd92f83646c397e098",
+        "size": 187523,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/46af29c3822726253035a8cd92f83646c397e098"
+    },
+    {
+        "path": "foley/weapon_magic/earth_spirit_attack1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aacb555c4e5e770256e07fcbae1adbf638003a91",
+        "size": 19931,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/aacb555c4e5e770256e07fcbae1adbf638003a91"
+    },
+    {
+        "path": "foley/weapon_magic/earthshaker_preattack2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a47111368f714bc2db4e64dd66ffbb01559cd4fd",
+        "size": 9406,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a47111368f714bc2db4e64dd66ffbb01559cd4fd"
+    },
+    {
+        "path": "foley/weapon_magic/echo-slammp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1af912c0d0a17c2f911a2791a8e14534b8a9a5a5",
+        "size": 122925,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1af912c0d0a17c2f911a2791a8e14534b8a9a5a5"
+    },
+    {
+        "path": "foley/weapon_magic/echo-stomp-castmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0cfcf8b09533099f20f404d7eab3a1b5c5998ad6",
+        "size": 93667,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/0cfcf8b09533099f20f404d7eab3a1b5c5998ad6"
+    },
+    {
+        "path": "foley/weapon_magic/eclipse-targetmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "8b65c4a5c6afdb17a55d9fe50b9a286c6a70b7fc",
+        "size": 82800,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/8b65c4a5c6afdb17a55d9fe50b9a286c6a70b7fc"
+    },
+    {
+        "path": "foley/weapon_magic/elder_rune.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ab06e2de959b7a42d2f35234c7dd99ec1edeae83",
+        "size": 74165,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ab06e2de959b7a42d2f35234c7dd99ec1edeae83"
+    },
+    {
+        "path": "foley/weapon_magic/eldritch_blast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "222cc74e847cd35829998236d3117d39e742edb5",
+        "size": 45925,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/222cc74e847cd35829998236d3117d39e742edb5"
+    },
+    {
+        "path": "foley/weapon_magic/enchant_target_control.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "8e317ea8ce4070376548b651597d151dd8e45e7f",
+        "size": 62528,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/8e317ea8ce4070376548b651597d151dd8e45e7f"
+    },
+    {
+        "path": "foley/weapon_magic/enchant_target_slow.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4f6b146cfe8db56baa32dab1cd62d0875f2c9796",
+        "size": 120625,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4f6b146cfe8db56baa32dab1cd62d0875f2c9796"
+    },
+    {
+        "path": "foley/weapon_magic/enchantress_projectile_impact1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a70364dbdd277ad7d9b2053f2eb0d3c2089e37a9",
+        "size": 11527,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a70364dbdd277ad7d9b2053f2eb0d3c2089e37a9"
+    },
+    {
+        "path": "foley/weapon_magic/enhance.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "347f7475e89edae87f04f42b081b63e8ce04d1e8",
+        "size": 470044,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/347f7475e89edae87f04f42b081b63e8ce04d1e8"
+    },
+    {
+        "path": "foley/weapon_magic/eul's_scepter_of_divinity.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "976ed9bbed679ad076b4142300cba57aacff8361",
+        "size": 54169,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/976ed9bbed679ad076b4142300cba57aacff8361"
+    },
+    {
+        "path": "foley/weapon_magic/eye_of_the_storm_target4.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fb7113651dc45b61c86679a5b679c880da5083de",
+        "size": 40443,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/fb7113651dc45b61c86679a5b679c880da5083de"
+    },
+    {
+        "path": "foley/weapon_magic/faceless-void-attack1mp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d3ca2644c6350ffc11c856150e31ea8a73a516bf",
+        "size": 17180,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d3ca2644c6350ffc11c856150e31ea8a73a516bf"
+    },
+    {
+        "path": "foley/weapon_magic/false-promise-castmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4baf6a5360ea9f8a5111e36c108ad6d4e974906e",
+        "size": 71097,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4baf6a5360ea9f8a5111e36c108ad6d4e974906e"
+    },
+    {
+        "path": "foley/weapon_magic/fan_of_knives.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aacb37729d72d115fe9dc14e3996de2f29827fdb",
+        "size": 78151,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/aacb37729d72d115fe9dc14e3996de2f29827fdb"
+    },
+    {
+        "path": "foley/weapon_magic/fiends-gripmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d8bd907d85da34929ce84256874eebfb3bcdf30c",
+        "size": 202336,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d8bd907d85da34929ce84256874eebfb3bcdf30c"
+    },
+    {
+        "path": "foley/weapon_magic/fiery_soul_of_the_slayer_dragon_slave.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e74918d8d0c086fb08321ee0d184af183c7df28f",
+        "size": 23240,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e74918d8d0c086fb08321ee0d184af183c7df28f"
+    },
+    {
+        "path": "foley/weapon_magic/find_trap.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1854c99a4da0ca6ef388beb9a1df5a7a4419e106",
+        "size": 391672,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1854c99a4da0ca6ef388beb9a1df5a7a4419e106"
+    },
+    {
+        "path": "foley/weapon_magic/finger_of_death.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "61fc783529df4740c2137111a1b99e1581a5b408",
+        "size": 37033,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/61fc783529df4740c2137111a1b99e1581a5b408"
+    },
+    {
+        "path": "foley/weapon_magic/fire_ball_boom.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1303de42734202096080e7c1fecb81d25c6e758b",
+        "size": 720260,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1303de42734202096080e7c1fecb81d25c6e758b"
+    },
+    {
+        "path": "foley/weapon_magic/fireball_cast.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c86325ba3568635ee99ddf64de1240f74acecee6",
+        "size": 188772,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c86325ba3568635ee99ddf64de1240f74acecee6"
+    },
+    {
+        "path": "foley/weapon_magic/firestorm_wave_1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5376f729905d261ab59cfcaed48c5490ef97ddfc",
+        "size": 62886,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5376f729905d261ab59cfcaed48c5490ef97ddfc"
+    },
+    {
+        "path": "foley/weapon_magic/flame-guardmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "58eae756d19050d3f2d54caf7804deb0d8326085",
+        "size": 183633,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/58eae756d19050d3f2d54caf7804deb0d8326085"
+    },
+    {
+        "path": "foley/weapon_magic/freezing-fieldmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "f0dc177df32f8a85a7856d23120fce20192c033e",
+        "size": 359907,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/f0dc177df32f8a85a7856d23120fce20192c033e"
+    },
+    {
+        "path": "foley/weapon_magic/freezing_field_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ebe7297dddeb48eb226bd2fedce77a14c90f9b2b",
+        "size": 196710,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ebe7297dddeb48eb226bd2fedce77a14c90f9b2b"
+    },
+    {
+        "path": "foley/weapon_magic/frostbitemp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "60e0fac56969e3f454e4f271e95f7c4024ac3b4d",
+        "size": 80292,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/60e0fac56969e3f454e4f271e95f7c4024ac3b4d"
+    },
+    {
+        "path": "foley/weapon_magic/ghost_scepter.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "8dd544563ea50bef921c01029784619399e8894b",
+        "size": 54169,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/8dd544563ea50bef921c01029784619399e8894b"
+    },
+    {
+        "path": "foley/weapon_magic/gnome_meme_sound_effect.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "30dad2b43597ce863fada3cd28fb7182f76fe73c",
+        "size": 16176,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/30dad2b43597ce863fada3cd28fb7182f76fe73c"
+    },
+    {
+        "path": "foley/weapon_magic/god's_strength.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "84facb169ae3672ff052eb0fb471514553b06c58",
+        "size": 62315,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/84facb169ae3672ff052eb0fb471514553b06c58"
+    },
+    {
+        "path": "foley/weapon_magic/gods-strengthmp3-1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1c9aa52572f526db7686d0d518954e0706e2872f",
+        "size": 67441,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1c9aa52572f526db7686d0d518954e0706e2872f"
+    },
+    {
+        "path": "foley/weapon_magic/guidance.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e3d537b59fdcc558a4a13bb510548b91f7f9dc06",
+        "size": 527480,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e3d537b59fdcc558a4a13bb510548b91f7f9dc06"
+    },
+    {
+        "path": "foley/weapon_magic/guiding_bolt.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "7312f78b4f2f542cc24ef157e98d6a7e20b7ce24",
+        "size": 396920,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/7312f78b4f2f542cc24ef157e98d6a7e20b7ce24"
+    },
+    {
+        "path": "foley/weapon_magic/gunshotsnglshotex_pe1097508.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "13f416b3c76e7e8ba43d9d90f20572efae6be929",
+        "size": 364391,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/13f416b3c76e7e8ba43d9d90f20572efae6be929"
+    },
+    {
+        "path": "foley/weapon_magic/halster_rune.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "165dd3f2b030ad4e27a50693f5ddb03134b675b7",
+        "size": 48721,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/165dd3f2b030ad4e27a50693f5ddb03134b675b7"
+    },
+    {
+        "path": "foley/weapon_magic/haunt.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b8dd44d27046e075a80716e2c9ca74c9b7b00d4b",
+        "size": 671776,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b8dd44d27046e075a80716e2c9ca74c9b7b00d4b"
+    },
+    {
+        "path": "foley/weapon_magic/heal.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3523802206d4006d35b2845dc7685004d3e9e649",
+        "size": 541984,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3523802206d4006d35b2845dc7685004d3e9e649"
+    },
+    {
+        "path": "foley/weapon_magic/healing_hands.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1a66c5114ab0e96237c7f2a226ed6d852dac9bee",
+        "size": 518492,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1a66c5114ab0e96237c7f2a226ed6d852dac9bee"
+    },
+    {
+        "path": "foley/weapon_magic/healing_touch_heal.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4f63417526ff1eda748b9f73e208b21a37454a55",
+        "size": 783268,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4f63417526ff1eda748b9f73e208b21a37454a55"
+    },
+    {
+        "path": "foley/weapon_magic/heroism.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3ec3f68eed3a3d4e6a4423a200b44776b4b1cec5",
+        "size": 357012,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3ec3f68eed3a3d4e6a4423a200b44776b4b1cec5"
+    },
+    {
+        "path": "foley/weapon_magic/hex.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "76be4d981f50e13472734d949f3c6b5e5d95a47f",
+        "size": 54169,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/76be4d981f50e13472734d949f3c6b5e5d95a47f"
+    },
+    {
+        "path": "foley/weapon_magic/hexblade_curse.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ea3c078f873701c1f78d4298967d78d4cb3b66c4",
+        "size": 184013,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ea3c078f873701c1f78d4298967d78d4cb3b66c4"
+    },
+    {
+        "path": "foley/weapon_magic/homing_missile_destroy.mp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5ff27c17d576776b4abdae345c0343c11e464460",
+        "size": 81337,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5ff27c17d576776b4abdae345c0343c11e464460"
+    },
+    {
+        "path": "foley/weapon_magic/hookshot_impact.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1f226689207210a210d7e61606ceb4ffb4a57521",
+        "size": 8377,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1f226689207210a210d7e61606ceb4ffb4a57521"
+    },
+    {
+        "path": "foley/weapon_magic/illusion_spawn.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6585397de1bebb140e1b3278dcc55dee3d93655a",
+        "size": 34226,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/6585397de1bebb140e1b3278dcc55dee3d93655a"
+    },
+    {
+        "path": "foley/weapon_magic/inflict_wounds.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c32853401abbee95614da1bc01194a5ecdc54c78",
+        "size": 370484,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c32853401abbee95614da1bc01194a5ecdc54c78"
+    },
+    {
+        "path": "foley/weapon_magic/infused_raindrop.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c00c2c88b756497c1ebc1e8a2f973f31f5f62bfd",
+        "size": 51662,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c00c2c88b756497c1ebc1e8a2f973f31f5f62bfd"
+    },
+    {
+        "path": "foley/weapon_magic/items_rune_haste.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "74f4d88a50c029cc08744cd4d71a89589eaed11a",
+        "size": 59031,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/74f4d88a50c029cc08744cd4d71a89589eaed11a"
+    },
+    {
+        "path": "foley/weapon_magic/laser_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "759030ecfeb187306183216cc8a1e0af7cee9fed",
+        "size": 16025,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/759030ecfeb187306183216cc8a1e0af7cee9fed"
+    },
+    {
+        "path": "foley/weapon_magic/life-drain-castmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "10c3f37117f6388ab4cdae051ee36673ce8a2581",
+        "size": 73187,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/10c3f37117f6388ab4cdae051ee36673ce8a2581"
+    },
+    {
+        "path": "foley/weapon_magic/life_drain.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "cb14025de7be710f462d23b369fe175897f2eb34",
+        "size": 879084,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/cb14025de7be710f462d23b369fe175897f2eb34"
+    },
+    {
+        "path": "foley/weapon_magic/lifestealer_attack2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9a02cbad7f959036bb05de63a00d4fcf120e27d1",
+        "size": 9146,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9a02cbad7f959036bb05de63a00d4fcf120e27d1"
+    },
+    {
+        "path": "foley/weapon_magic/light.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e16d19f95eda8cecb577b9c110ff45c118af626d",
+        "size": 44974,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e16d19f95eda8cecb577b9c110ff45c118af626d"
+    },
+    {
+        "path": "foley/weapon_magic/lightning-boltmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "82514968225dee4834740fa9f0e588c9c7d0c0a3",
+        "size": 161376,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/82514968225dee4834740fa9f0e588c9c7d0c0a3"
+    },
+    {
+        "path": "foley/weapon_magic/lightning_storm_target2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0cc6823235caa3c497430d30332810d0e03a8da8",
+        "size": 30918,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/0cc6823235caa3c497430d30332810d0e03a8da8"
+    },
+    {
+        "path": "foley/weapon_magic/lina_projectile_launch.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1b5ef67f5a41c19d0c75718cd0f9da1ab055ee39",
+        "size": 11537,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1b5ef67f5a41c19d0c75718cd0f9da1ab055ee39"
+    },
+    {
+        "path": "foley/weapon_magic/linkens_sphere.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "077664c8d67f441311846a38a4c29040ff8e0350",
+        "size": 44974,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/077664c8d67f441311846a38a4c29040ff8e0350"
+    },
+    {
+        "path": "foley/weapon_magic/lotus_orb_proc.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "62003c3a74358441f1646d0797de4a09132bc9ef",
+        "size": 107668,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/62003c3a74358441f1646d0797de4a09132bc9ef"
+    },
+    {
+        "path": "foley/weapon_magic/luck.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b70284a80f99bc864c436ca2e93eee6ef407aa5b",
+        "size": 80501,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b70284a80f99bc864c436ca2e93eee6ef407aa5b"
+    },
+    {
+        "path": "foley/weapon_magic/macropyremp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ec8bce4d9b2e15fce79c029ed5b8bea5a2e9028b",
+        "size": 354473,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ec8bce4d9b2e15fce79c029ed5b8bea5a2e9028b"
+    },
+    {
+        "path": "foley/weapon_magic/mage_armor.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "7abe0510a4cc2db0239802a5e758d544cef5d7ed",
+        "size": 100165,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/7abe0510a4cc2db0239802a5e758d544cef5d7ed"
+    },
+    {
+        "path": "foley/weapon_magic/magic_missile.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4be4030788f0430977c239297c2ae9d3e646487a",
+        "size": 335644,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4be4030788f0430977c239297c2ae9d3e646487a"
+    },
+    {
+        "path": "foley/weapon_magic/magic_missile1.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b5b2229ca3d9dc2caeaac74d84290dbfff8c8b90",
+        "size": 217196,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b5b2229ca3d9dc2caeaac74d84290dbfff8c8b90"
+    },
+    {
+        "path": "foley/weapon_magic/magic_missile_impact.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3ca79ae3f69ef1ff8b33e9e834ad6867ee4a11ca",
+        "size": 323760,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3ca79ae3f69ef1ff8b33e9e834ad6867ee4a11ca"
+    },
+    {
+        "path": "foley/weapon_magic/magnetic_field.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6a853d98b43a567518979e124aea277a7c6a9dcc",
+        "size": 185371,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/6a853d98b43a567518979e124aea277a7c6a9dcc"
+    },
+    {
+        "path": "foley/weapon_magic/magnetize-castmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3068cef841b3cd43fc117e209b16ec1c309a335f",
+        "size": 106833,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3068cef841b3cd43fc117e209b16ec1c309a335f"
+    },
+    {
+        "path": "foley/weapon_magic/manifold_paradox_coup_de_grace_alt.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aacb37729d72d115fe9dc14e3996de2f29827fdb",
+        "size": 78151,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/aacb37729d72d115fe9dc14e3996de2f29827fdb"
+    },
+    {
+        "path": "foley/weapon_magic/manta_style_alt.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "2f57fcb099ff76bf1ecb5e7d20e7e1d366cc2249",
+        "size": 76112,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/2f57fcb099ff76bf1ecb5e7d20e7e1d366cc2249"
+    },
+    {
+        "path": "foley/weapon_magic/mario_jump_-_gaming_sound_effect.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fe67e3320f1cc285d88b17e90ae6b0a27bbcd95b",
+        "size": 93183,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/fe67e3320f1cc285d88b17e90ae6b0a27bbcd95b"
+    },
+    {
+        "path": "foley/weapon_magic/mask_of_madness.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "40a7bc62ae4937fb47fdf1c5fce4dd3312cebed5",
+        "size": 77575,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/40a7bc62ae4937fb47fdf1c5fce4dd3312cebed5"
+    },
+    {
+        "path": "foley/weapon_magic/medallion_of_courage.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ca93dbcb7cb3267fc63749c81b0d98353f0b8a2f",
+        "size": 68426,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ca93dbcb7cb3267fc63749c81b0d98353f0b8a2f"
+    },
+    {
+        "path": "foley/weapon_magic/mixkit-cinematic-church-bell-hit-619.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5c19b47f9d4094b91966c356cd61513f1dd239f2",
+        "size": 1914722,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5c19b47f9d4094b91966c356cd61513f1dd239f2"
+    },
+    {
+        "path": "foley/weapon_magic/muh_keen_gun_shrapnel_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "070f6bfc9ed90f5484eb9c2060be8fe371c84554",
+        "size": 91044,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/070f6bfc9ed90f5484eb9c2060be8fe371c84554"
+    },
+    {
+        "path": "foley/weapon_magic/nether_swap.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2422eb8ad918f6c5e74cfbb4cbc3b45f336e9fe",
+        "size": 46418,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d2422eb8ad918f6c5e74cfbb4cbc3b45f336e9fe"
+    },
+    {
+        "path": "foley/weapon_magic/nightmare.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "32095699b864edf16545dd43b94df173d83d9e24",
+        "size": 290326,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/32095699b864edf16545dd43b94df173d83d9e24"
+    },
+    {
+        "path": "foley/weapon_magic/nimbus.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3cfe1c6d3000b4107aab01e42e0c6e58c4e36b52",
+        "size": 164110,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3cfe1c6d3000b4107aab01e42e0c6e58c4e36b52"
+    },
+    {
+        "path": "foley/weapon_magic/nullifier_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0f298ff7011c73fa32fba56f299828cfb7c27ee1",
+        "size": 47648,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/0f298ff7011c73fa32fba56f299828cfb7c27ee1"
+    },
+    {
+        "path": "foley/weapon_magic/oraoraoraoraora-sound-effect.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "558c9ef5268131bb3d8d03c3f37423a007f3e09c",
+        "size": 81848,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/558c9ef5268131bb3d8d03c3f37423a007f3e09c"
+    },
+    {
+        "path": "foley/weapon_magic/overgrowth_cast.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "75294ba5b8c4fbedb193beb017e6baaa6b7914e4",
+        "size": 642312,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/75294ba5b8c4fbedb193beb017e6baaa6b7914e4"
+    },
+    {
+        "path": "foley/weapon_magic/parry!.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9b44ee8b17fac22ee3b7feb719213ada582081d9",
+        "size": 8207,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9b44ee8b17fac22ee3b7feb719213ada582081d9"
+    },
+    {
+        "path": "foley/weapon_magic/phase_shift.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "03d513b831f30dd9b06d1fddcf318136768667f4",
+        "size": 35335,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/03d513b831f30dd9b06d1fddcf318136768667f4"
+    },
+    {
+        "path": "foley/weapon_magic/plague_ward_projectile_launch1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "522f96c833954b71673659ce0c694fe943c6d815",
+        "size": 28330,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/522f96c833954b71673659ce0c694fe943c6d815"
+    },
+    {
+        "path": "foley/weapon_magic/plague_ward_projectile_launch2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5614f72d3dc9120126af96f5d875f99f3f9c48f5",
+        "size": 28696,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5614f72d3dc9120126af96f5d875f99f3f9c48f5"
+    },
+    {
+        "path": "foley/weapon_magic/poison_nova.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "2481e668db624f034ecdb1a4cd611e90504e632b",
+        "size": 40431,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/2481e668db624f034ecdb1a4cd611e90504e632b"
+    },
+    {
+        "path": "foley/weapon_magic/powershot_launch.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "2bac019a5d294e2fe520559bf9e5b136b4e8671d",
+        "size": 17389,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/2bac019a5d294e2fe520559bf9e5b136b4e8671d"
+    },
+    {
+        "path": "foley/weapon_magic/powershot_target3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "edbd568730c06ffd96b8b7f9974075490a3a4621",
+        "size": 8309,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/edbd568730c06ffd96b8b7f9974075490a3a4621"
+    },
+    {
+        "path": "foley/weapon_magic/prayer_of_healing.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "de6e7b2f6b6134a4d8b166eda58c9bc4ce75643e",
+        "size": 240592,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/de6e7b2f6b6134a4d8b166eda58c9bc4ce75643e"
+    },
+    {
+        "path": "foley/weapon_magic/pyrexaec-floe-ice-pathmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e73ced0aa0c0521cb1d5f4e5b599acc80b0787fc",
+        "size": 68589,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e73ced0aa0c0521cb1d5f4e5b599acc80b0787fc"
+    },
+    {
+        "path": "foley/weapon_magic/rage.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a2a185e446e151b7607cf7f6bc538f6ee20cdd06",
+        "size": 586516,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a2a185e446e151b7607cf7f6bc538f6ee20cdd06"
+    },
+    {
+        "path": "foley/weapon_magic/ravage.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "05a65322f6622082a3be4671d3f45526c796f069",
+        "size": 70872,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/05a65322f6622082a3be4671d3f45526c796f069"
+    },
+    {
+        "path": "foley/weapon_magic/ray_of_frost.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1b7f67c7068dd8156825cc11204d46cf5875c4e6",
+        "size": 433424,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1b7f67c7068dd8156825cc11204d46cf5875c4e6"
+    },
+    {
+        "path": "foley/weapon_magic/reincarnation_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "2db2b350e991363d6dc74418ff342df228e5fbdb",
+        "size": 99727,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/2db2b350e991363d6dc74418ff342df228e5fbdb"
+    },
+    {
+        "path": "foley/weapon_magic/rollermawster_march_of_the_machines_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d094ba38ae18e0ba06e4605af91402f238fba43b",
+        "size": 46645,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d094ba38ae18e0ba06e4605af91402f238fba43b"
+    },
+    {
+        "path": "foley/weapon_magic/rot-loopmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "8b02c9114bb8f1584b6848c46ea86fd366661f5b",
+        "size": 223757,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/8b02c9114bb8f1584b6848c46ea86fd366661f5b"
+    },
+    {
+        "path": "foley/weapon_magic/sacred_flame.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b40ec14c2433bb206909ccfafa0da6665ac25372",
+        "size": 49154,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b40ec14c2433bb206909ccfafa0da6665ac25372"
+    },
+    {
+        "path": "foley/weapon_magic/sacred_flame_developing.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "99cdb918ab5c02f1db705527385b221f4e089e97",
+        "size": 63782,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/99cdb918ab5c02f1db705527385b221f4e089e97"
+    },
+    {
+        "path": "foley/weapon_magic/sacrifice.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "97b33126ef2f2bdc20127dbf205912f465d95622",
+        "size": 98524,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/97b33126ef2f2bdc20127dbf205912f465d95622"
+    },
+    {
+        "path": "foley/weapon_magic/sanctuary.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e59c2c6d17276eb9ff17f22ca0f4f697be5b00e4",
+        "size": 1324556,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e59c2c6d17276eb9ff17f22ca0f4f697be5b00e4"
+    },
+    {
+        "path": "foley/weapon_magic/sand_king_attack2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "f2acb8cc6b8232be0f4bff2fdd909ae3c4f06de2",
+        "size": 6591,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/f2acb8cc6b8232be0f4bff2fdd909ae3c4f06de2"
+    },
+    {
+        "path": "foley/weapon_magic/scorched_earth_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d193ede2f0a518ed18acc0df8ebeb1042149c561",
+        "size": 136909,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d193ede2f0a518ed18acc0df8ebeb1042149c561"
+    },
+    {
+        "path": "foley/weapon_magic/scream_of_pain.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e2f634d4b05750e8ff4b92c494d0a444cd4e8422",
+        "size": 72020,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e2f634d4b05750e8ff4b92c494d0a444cd4e8422"
+    },
+    {
+        "path": "foley/weapon_magic/searching.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ba97c1594467017ac37633686688575c68b866ff",
+        "size": 418604,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ba97c1594467017ac37633686688575c68b866ff"
+    },
+    {
+        "path": "foley/weapon_magic/seer-stone-revealmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "cdc694ea556c18dd3ca12df0ef8f43294fecd3da",
+        "size": 209023,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/cdc694ea556c18dd3ca12df0ef8f43294fecd3da"
+    },
+    {
+        "path": "foley/weapon_magic/self_heal.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a61eaa0e853bef9882bd4e4585d643a01db4501c",
+        "size": 127586,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a61eaa0e853bef9882bd4e4585d643a01db4501c"
+    },
+    {
+        "path": "foley/weapon_magic/shackle_cast.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e851b7703aa14e73004cd85b1eeacffb584fd7a1",
+        "size": 283184,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e851b7703aa14e73004cd85b1eeacffb584fd7a1"
+    },
+    {
+        "path": "foley/weapon_magic/shackleshot.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "85a791caa305561614dd35886bfd0335a292065e",
+        "size": 71263,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/85a791caa305561614dd35886bfd0335a292065e"
+    },
+    {
+        "path": "foley/weapon_magic/shadow-strikemp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a242e1ade398aef93a68290a8a87da7f8e6fcb03",
+        "size": 65142,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a242e1ade398aef93a68290a8a87da7f8e6fcb03"
+    },
+    {
+        "path": "foley/weapon_magic/shadow_word_cast_damage.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "2b56c7007d553d20dcdd181d939fff89cd6c0c8f",
+        "size": 36615,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/2b56c7007d553d20dcdd181d939fff89cd6c0c8f"
+    },
+    {
+        "path": "foley/weapon_magic/shadow_word_incant3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bd63bb25800c3fac5893675cc41ae6730395b376",
+        "size": 41604,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/bd63bb25800c3fac5893675cc41ae6730395b376"
+    },
+    {
+        "path": "foley/weapon_magic/shadow_word_loop.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e49b8212fced758d2f74f537d5150d3e9d8f9261",
+        "size": 134835,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e49b8212fced758d2f74f537d5150d3e9d8f9261"
+    },
+    {
+        "path": "foley/weapon_magic/shallow_grave.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a858a54439edbf2dda49219909ea3feda19264be",
+        "size": 86352,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a858a54439edbf2dda49219909ea3feda19264be"
+    },
+    {
+        "path": "foley/weapon_magic/shared-damage-rip1mp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "caf0ae2c85dc3de0cb09593f930f2e5d30901f28",
+        "size": 4641,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/caf0ae2c85dc3de0cb09593f930f2e5d30901f28"
+    },
+    {
+        "path": "foley/weapon_magic/shared-large-blade-whoosh3mp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "79aa0726b2dd0c628379c76a5528df0e9448637c",
+        "size": 22719,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/79aa0726b2dd0c628379c76a5528df0e9448637c"
+    },
+    {
+        "path": "foley/weapon_magic/shared_large_blade_thump2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "880dbea5a69441bce4b6634cb465a01526b9595f",
+        "size": 5026,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/880dbea5a69441bce4b6634cb465a01526b9595f"
+    },
+    {
+        "path": "foley/weapon_magic/shared_sword_impact3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a091b8dbdd970b7222a2c296e4de17695b279bfc",
+        "size": 9301,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a091b8dbdd970b7222a2c296e4de17695b279bfc"
+    },
+    {
+        "path": "foley/weapon_magic/shatter.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3d899ce202bb47c4c796a1853c77441d45d73b7b",
+        "size": 26140,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3d899ce202bb47c4c796a1853c77441d45d73b7b"
+    },
+    {
+        "path": "foley/weapon_magic/shield!!!.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e219aac4c99837a7fa23ed1c68eedbbf105e60f7",
+        "size": 71741,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e219aac4c99837a7fa23ed1c68eedbbf105e60f7"
+    },
+    {
+        "path": "foley/weapon_magic/shield_create.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b0c98c1aca225e356b51d58b7a70850f7860903c",
+        "size": 663544,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b0c98c1aca225e356b51d58b7a70850f7860903c"
+    },
+    {
+        "path": "foley/weapon_magic/shocking_grasp.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aa2dcdaf7a091e503c14d9ec153815c1b72c2db8",
+        "size": 185526,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/aa2dcdaf7a091e503c14d9ec153815c1b72c2db8"
+    },
+    {
+        "path": "foley/weapon_magic/shotgun-firing-4-6746.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "58acc40ca0ddf6d0eec5e24096b915597c3c999d",
+        "size": 56640,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/58acc40ca0ddf6d0eec5e24096b915597c3c999d"
+    },
+    {
+        "path": "foley/weapon_magic/silence.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "10e3c79ebe9832b976dd0b96bd89fa950e847b18",
+        "size": 566304,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/10e3c79ebe9832b976dd0b96bd89fa950e847b18"
+    },
+    {
+        "path": "foley/weapon_magic/silencer_projectile_launch2.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e50e93b78419e55fa35e7bad89fa877596b80f06",
+        "size": 17790,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e50e93b78419e55fa35e7bad89fa877596b80f06"
+    },
+    {
+        "path": "foley/weapon_magic/sleight_of_fist.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c273e57d787c0ba3497fd02bf6fb38a8792e9ded",
+        "size": 37033,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c273e57d787c0ba3497fd02bf6fb38a8792e9ded"
+    },
+    {
+        "path": "foley/weapon_magic/smite.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "75075db6a39fbd6834cebc20acbd2788e96ab919",
+        "size": 308424,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/75075db6a39fbd6834cebc20acbd2788e96ab919"
+    },
+    {
+        "path": "foley/weapon_magic/smite2.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d1909cdebdff92c595c748227a33c825383db04f",
+        "size": 306020,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d1909cdebdff92c595c748227a33c825383db04f"
+    },
+    {
+        "path": "foley/weapon_magic/smite_3.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "727a3286ec94898be252b0c8b90bb2312c58de1c",
+        "size": 526752,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/727a3286ec94898be252b0c8b90bb2312c58de1c"
+    },
+    {
+        "path": "foley/weapon_magic/smoke_of_deceit.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ac336d17939e275352390929e9ed9c2188610465",
+        "size": 49444,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/ac336d17939e275352390929e9ed9c2188610465"
+    },
+    {
+        "path": "foley/weapon_magic/sniper_projectile_launch.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9ced06200bc9fe0f002f5b8fbe019ced58e1c0a0",
+        "size": 12556,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9ced06200bc9fe0f002f5b8fbe019ced58e1c0a0"
+    },
+    {
+        "path": "foley/weapon_magic/solar_forge_sun_ray.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "95f1b4973415df0d448656e6a42e2dbf8be78e22",
+        "size": 193010,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/95f1b4973415df0d448656e6a42e2dbf8be78e22"
+    },
+    {
+        "path": "foley/weapon_magic/some_cool_shit.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "da50467d1a5662de5c0af3c35e8780b7e2a2fa5a",
+        "size": 504988,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/da50467d1a5662de5c0af3c35e8780b7e2a2fa5a"
+    },
+    {
+        "path": "foley/weapon_magic/spear_projectile.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1d60681b8a07e29bbaff5809ebfe982b3f9a67d9",
+        "size": 317312,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1d60681b8a07e29bbaff5809ebfe982b3f9a67d9"
+    },
+    {
+        "path": "foley/weapon_magic/spear_stab.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "73e2659f3e3864f849414f15abcba6d9d20e9e29",
+        "size": 191320,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/73e2659f3e3864f849414f15abcba6d9d20e9e29"
+    },
+    {
+        "path": "foley/weapon_magic/spell_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "75daa36810d4fc994d42951762c4451ca7a99605",
+        "size": 41630,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/75daa36810d4fc994d42951762c4451ca7a99605"
+    },
+    {
+        "path": "foley/weapon_magic/spell_shield_block.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "146213ebd264abf95bf970a5ea43a67b173c989f",
+        "size": 55423,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/146213ebd264abf95bf970a5ea43a67b173c989f"
+    },
+    {
+        "path": "foley/weapon_magic/spider-legs-skittermp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "cf2d020d5624127cb9aaa26ef916a115657587f7",
+        "size": 60230,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/cf2d020d5624127cb9aaa26ef916a115657587f7"
+    },
+    {
+        "path": "foley/weapon_magic/spirit_guardian.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "cc26b52290e4c432dd8470a8fa1ae2ac4014f918",
+        "size": 44112,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/cc26b52290e4c432dd8470a8fa1ae2ac4014f918"
+    },
+    {
+        "path": "foley/weapon_magic/splinter_blast_projectile.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "8559c20910481134cfe8170f2158ee8eda4d8a96",
+        "size": 53751,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/8559c20910481134cfe8170f2158ee8eda4d8a96"
+    },
+    {
+        "path": "foley/weapon_magic/splinter_blast_secondary_target1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "626a4aeb526c5e682231ffdc8f9dc96c9c7cb2d6",
+        "size": 29693,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/626a4aeb526c5e682231ffdc8f9dc96c9c7cb2d6"
+    },
+    {
+        "path": "foley/weapon_magic/static_charge_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c40486fc9dcb5ffa4b8c7cedde6556a9cffa8346",
+        "size": 72142,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/c40486fc9dcb5ffa4b8c7cedde6556a9cffa8346"
+    },
+    {
+        "path": "foley/weapon_magic/static_link.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a9cbb12a4ea548d7b1471c228036978d19a87191",
+        "size": 156987,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a9cbb12a4ea548d7b1471c228036978d19a87191"
+    },
+    {
+        "path": "foley/weapon_magic/stygian_desolator_greater_corruption.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9e3b09bcc8614c40ae23d77dcadfd893360d0c96",
+        "size": 32711,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9e3b09bcc8614c40ae23d77dcadfd893360d0c96"
+    },
+    {
+        "path": "foley/weapon_magic/suggestion.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b61a0ca1fb39432dfc846c6dc33fa351888acd08",
+        "size": 652604,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b61a0ca1fb39432dfc846c6dc33fa351888acd08"
+    },
+    {
+        "path": "foley/weapon_magic/sun_ray_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "29cce2b47a92310e32f8581d53bd8d79b1633201",
+        "size": 74231,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/29cce2b47a92310e32f8581d53bd8d79b1633201"
+    },
+    {
+        "path": "foley/weapon_magic/tango.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e464ff734c435670e989a895e1b47ff8cf1a68a4",
+        "size": 44138,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e464ff734c435670e989a895e1b47ff8cf1a68a4"
+    },
+    {
+        "path": "foley/weapon_magic/techies_projectile_launch.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e96723ca6ab860c97615ff154b1ec26e8b62978b",
+        "size": 9004,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e96723ca6ab860c97615ff154b1ec26e8b62978b"
+    },
+    {
+        "path": "foley/weapon_magic/telekinesis_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9cfc73ddedc7e770724571ce31312392d1005b99",
+        "size": 108925,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9cfc73ddedc7e770724571ce31312392d1005b99"
+    },
+    {
+        "path": "foley/weapon_magic/teleport.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "da755cac5a1b7c61605611d1a7280138bb0d03f4",
+        "size": 182039,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/da755cac5a1b7c61605611d1a7280138bb0d03f4"
+    },
+    {
+        "path": "foley/weapon_magic/teleport_end.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "721a9442e764b48b2fb4c030ff55d692f7a7f63b",
+        "size": 62883,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/721a9442e764b48b2fb4c030ff55d692f7a7f63b"
+    },
+    {
+        "path": "foley/weapon_magic/the_swarm.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5e4aebc264f293c4f51d91fe8f1a62049c548d7e",
+        "size": 112712,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5e4aebc264f293c4f51d91fe8f1a62049c548d7e"
+    },
+    {
+        "path": "foley/weapon_magic/the_swarm_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "40bcd3839882034517705422641dcc21a739dd1b",
+        "size": 55850,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/40bcd3839882034517705422641dcc21a739dd1b"
+    },
+    {
+        "path": "foley/weapon_magic/thunderwave.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4f3c15d591258028b3c6499e16948293c36d2f76",
+        "size": 26767,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4f3c15d591258028b3c6499e16948293c36d2f76"
+    },
+    {
+        "path": "foley/weapon_magic/tidebringer-splash1mp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "7c35bbac244a4e9fe77b5662bdd251478834bcff",
+        "size": 18434,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/7c35bbac244a4e9fe77b5662bdd251478834bcff"
+    },
+    {
+        "path": "foley/weapon_magic/timbersaw-flamethrower-1mp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e240134218af33ed81ca80db1b2f79f3c0fcfee0",
+        "size": 321872,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/e240134218af33ed81ca80db1b2f79f3c0fcfee0"
+    },
+    {
+        "path": "foley/weapon_magic/timbersaw-flamethrower-2mp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3e4ec939777d14c187c90a6f9e62b12346b0a516",
+        "size": 382476,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3e4ec939777d14c187c90a6f9e62b12346b0a516"
+    },
+    {
+        "path": "foley/weapon_magic/time-dilationmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fb27bd48599715f381becf38edbaf0e472bf2dfd",
+        "size": 183946,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/fb27bd48599715f381becf38edbaf0e472bf2dfd"
+    },
+    {
+        "path": "foley/weapon_magic/tornado-castmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "186a4e1832cacb1c67cb6ea65e14f3d15fb4ba46",
+        "size": 66081,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/186a4e1832cacb1c67cb6ea65e14f3d15fb4ba46"
+    },
+    {
+        "path": "foley/weapon_magic/tornado-travelmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3d28a026d7054c33219fa1fa85c06190d8f0c5c7",
+        "size": 162212,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3d28a026d7054c33219fa1fa85c06190d8f0c5c7"
+    },
+    {
+        "path": "foley/weapon_magic/toss.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "72501d228e515decfb6f4625850adbe40879e936",
+        "size": 88278,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/72501d228e515decfb6f4625850adbe40879e936"
+    },
+    {
+        "path": "foley/weapon_magic/toss_cast.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "88198aa4d772ab83758f0af8ecc313f2f7ec0ddd",
+        "size": 16971,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/88198aa4d772ab83758f0af8ecc313f2f7ec0ddd"
+    },
+    {
+        "path": "foley/weapon_magic/track.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "26a354f0c545f58c19299a7eed5281cacddb943c",
+        "size": 73015,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/26a354f0c545f58c19299a7eed5281cacddb943c"
+    },
+    {
+        "path": "foley/weapon_magic/true-formmp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "48366fdbff35200734f8cad35be771ffd06b1921",
+        "size": 56886,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/48366fdbff35200734f8cad35be771ffd06b1921"
+    },
+    {
+        "path": "foley/weapon_magic/ursa_attack1.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "062d43b4ea7a028eece01d35b2a938c996fca8ea",
+        "size": 6643,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/062d43b4ea7a028eece01d35b2a938c996fca8ea"
+    },
+    {
+        "path": "foley/weapon_magic/venomous_gale.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "95088185c716b6dd407af742f3d5174ce0a7e0bc",
+        "size": 18989,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/95088185c716b6dd407af742f3d5174ce0a7e0bc"
+    },
+    {
+        "path": "foley/weapon_magic/viscous_nasal_goo_impact.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "079f5f9dc6cd843ca2d4950c40e33027546b2b36",
+        "size": 93703,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/079f5f9dc6cd843ca2d4950c40e33027546b2b36"
+    },
+    {
+        "path": "foley/weapon_magic/voodoo_restoration.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "57d570bcdff58e07a4b076cde14474000f92945c",
+        "size": 124804,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/57d570bcdff58e07a4b076cde14474000f92945c"
+    },
+    {
+        "path": "foley/weapon_magic/warcrymp3.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "86359295c1f2bcd944322f183058cba87167b56d",
+        "size": 60857,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/86359295c1f2bcd944322f183058cba87167b56d"
+    },
+    {
+        "path": "foley/weapon_magic/warhammer.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "57271fffe684f2d519faade20d20b0e54f18dbc8",
+        "size": 294132,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/57271fffe684f2d519faade20d20b0e54f18dbc8"
+    },
+    {
+        "path": "foley/weapon_magic/water.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "69fe05053169643f99ee862eb4b1fb067dc627a2",
+        "size": 21333,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/69fe05053169643f99ee862eb4b1fb067dc627a2"
+    },
+    {
+        "path": "foley/weapon_magic/weapons_hero_marci_attack02.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "82bea4b19f7228cbab8965e021b2bd1641d1dca1",
+        "size": 6875,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/82bea4b19f7228cbab8965e021b2bd1641d1dca1"
+    },
+    {
+        "path": "foley/weapon_magic/weapons_hero_marci_unleash_charged_3d.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0f8d0e8fa8317440ecec80d063246a593e5cb6ff",
+        "size": 21239,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/0f8d0e8fa8317440ecec80d063246a593e5cb6ff"
+    },
+    {
+        "path": "foley/weapon_magic/weapons_hero_mars_shield_bash.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3d81038b6a7d8b612198fcb90d0fc7cb19f9167b",
+        "size": 72055,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/3d81038b6a7d8b612198fcb90d0fc7cb19f9167b"
+    },
+    {
+        "path": "foley/weapon_magic/weapons_hero_mars_spear_target.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "39868cc57003d4b5e1891c101cebf6df137c119d",
+        "size": 47629,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/39868cc57003d4b5e1891c101cebf6df137c119d"
+    },
+    {
+        "path": "foley/weapon_magic/web_cast.wav",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d0a33d747a2620ad47c3c78f37df9d191b4242d8",
+        "size": 225076,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d0a33d747a2620ad47c3c78f37df9d191b4242d8"
+    },
+    {
+        "path": "foley/weapon_magic/whirling_death.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a923946cdba31bf99f70fc13460ca593373f865b",
+        "size": 24912,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/a923946cdba31bf99f70fc13460ca593373f865b"
+    },
+    {
+        "path": "foley/weapon_magic/wild_axes.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "85806f0d46153b697664ab0df5ce206da17c1159",
+        "size": 52555,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/85806f0d46153b697664ab0df5ce206da17c1159"
+    },
+    {
+        "path": "foley/weapon_magic/windrun.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "663f988d517716357a7bfab4f238f593d19f6442",
+        "size": 106843,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/663f988d517716357a7bfab4f238f593d19f6442"
+    },
+    {
+        "path": "foley/weapon_magic/wrathful_smite.mp3",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "273947d62b0418b1137fb4878e62e4fa0df54727",
+        "size": 46228,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/273947d62b0418b1137fb4878e62e4fa0df54727"
+    },
+    {
         "path": "loop",
         "mode": "040000",
         "type": "tree",
@@ -2387,6 +4266,14 @@
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/1bdec247d7ce8f09d51dd54711c1881d36a5dd42"
     },
     {
+        "path": "music/JDSherbert/ReadMe.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9bc80625d26f4f8d468ed52d571b65bb718bfc65",
+        "size": 385,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/9bc80625d26f4f8d468ed52d571b65bb718bfc65"
+    },
+    {
         "path": "music/Sara_Garrard",
         "mode": "040000",
         "type": "tree",
@@ -2480,6 +4367,22 @@
         "sha": "4be34a4e7ecb027490f15e1ec32e2d99f20b32ab",
         "size": 30323360,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/4be34a4e7ecb027490f15e1ec32e2d99f20b32ab"
+    },
+    {
+        "path": "music/Sara_Garrard/ReadMe.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5cf61f6f4ea008c641cdc4c7e94e3bac66684e06",
+        "size": 1816,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/5cf61f6f4ea008c641cdc4c7e94e3bac66684e06"
+    },
+    {
+        "path": "music/Sara_Garrard/_CORE_Read_Me_2022.rtf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "effe3fa485a35e67d73e6489ae8c1934db69f5b8",
+        "size": 5718,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/effe3fa485a35e67d73e6489ae8c1934db69f5b8"
     },
     {
         "path": "music/Tom_Music",
@@ -2717,6 +4620,22 @@
         "sha": "d4afd3ff5cdcb7e05d4652d5942fce33336ab459",
         "size": 32361466,
         "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/d4afd3ff5cdcb7e05d4652d5942fce33336ab459"
+    },
+    {
+        "path": "music/Tom_Music/ReadMe.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0a4c7eca7174e13b5f48888f45669fe385f56454",
+        "size": 525,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/0a4c7eca7174e13b5f48888f45669fe385f56454"
+    },
+    {
+        "path": "music/Tom_Music/_ReadMe.rtf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b898a5c5ef367535ca87867121a01e40e7503788",
+        "size": 1331,
+        "url": "https://api.github.com/repos/Jmr3366/soundShare/git/blobs/b898a5c5ef367535ca87867121a01e40e7503788"
     },
     {
         "path": "music/combat",
